@@ -13,6 +13,7 @@ The Noodl Starter Template is a community project aimed at helping Noodl builder
 * Collapsable menu
 * File uploader
 * Profile button with floating menu
+* n8n prefab (if you plan to work with n8n for cloud functions)
 
 ## Installation
 
